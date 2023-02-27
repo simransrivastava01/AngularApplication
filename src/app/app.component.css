@@ -1,0 +1,11 @@
+div{
+    background-color:#ad2222;
+    text-align:center;
+    color: white;
+    font-size:25px;
+    height:600px;
+    overflow-y: hidden;
+}
+img{
+    height:200px;
+  }

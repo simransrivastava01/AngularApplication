@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'ninjaApp';
+  message1 = "Hello Ninjas! How are you?";
+  message2 = "World has enough coders. Be more than a coder";
+  message3 = "Be a Coding Ninja!!!"
 }
